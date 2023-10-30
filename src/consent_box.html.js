@@ -9,10 +9,10 @@ export default `
         <!-- Description goes here -->
       </div>
       <div class="cc-buttons">
-        <div class="cc-btn cc-btn-settings cc-btn-show-settings">
+        <div class="cc-btn cc-btn-settings cc-btn-show-settings cc-hidden">
           <!-- Cookie settings button -->
         </div>
-        <div class="cc-btn cc-btn-reject">
+        <div class="cc-btn cc-btn-reject cc-hidden">
           <!-- Reject button -->
         </div>
         <div class="cc-btn cc-btn-accept cc-btn-accept-all">
